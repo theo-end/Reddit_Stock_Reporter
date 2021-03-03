@@ -1,0 +1,5 @@
+reddit_UserName = "alexe314"
+reddit_Password = "allbnc100m11.8"
+reddit_SecretToken = "jRx78rc1SDL7vryXg_f_xUg63Bh7-w"
+reddit_ClientID = "51v_7w1V0JX7cw"
+reddit_User_Agent = "Theodore Endresen"
